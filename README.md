@@ -4,6 +4,7 @@
 
 **app to cleanly remove Riot Vanguard**
 
+![Language](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
 [![GitHub](https://img.shields.io/github/stars/yourpovv/VAN-Uninstaller?style=social)](https://github.com/yourpovv/VAN-Uninstaller)
 
 ![alt text](assets/image.png)
